@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1707489633 source:c:\users\lahce\onedrive\bureau\projet\hex\hex.c
+	"hex.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1707489726 c:\users\lahce\onedrive\bureau\projet\hex\hex.h
+	<stdbool.h>
+
+1707489664 source:c:\users\lahce\onedrive\bureau\projet\hex\main.c
+	"hex.h"
+
+1707489634 source:c:\users\lahce\onedrive\bureau\atelier 1\hex\hex.c
+	"hex.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1707489728 c:\users\lahce\onedrive\bureau\atelier 1\hex\hex.h
+	<stdbool.h>
+
+1707489666 source:c:\users\lahce\onedrive\bureau\atelier 1\hex\main.c
+	"hex.h"
+
